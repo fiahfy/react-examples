@@ -1,7 +1,7 @@
-decorators
+minimum
 ================
 
-App using decorators
+App using react-router@1.0.3
 
 Getting Started
 -----

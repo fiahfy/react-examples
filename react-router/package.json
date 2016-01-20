@@ -1,7 +1,7 @@
 {
-  "name": "decorators",
+  "name": "minimum",
   "version": "1.0.0",
-  "description": "App using decorators",
+  "description": "Minimum React App",
   "main": "server.js",
   "dependencies": {
     "babel-core": "6.4.5",
@@ -10,8 +10,10 @@
     "babel-preset-react": "6.3.13",
     "babel-preset-stage-0": "6.3.13",
     "express": "4.13.3",
+    "history": "1.17.0",
     "react": "0.14.6",
     "react-dom": "0.14.6",
+    "react-router": "1.0.3",
     "webpack": "1.12.11"
   },
   "devDependencies": {},
