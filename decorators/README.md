@@ -1,7 +1,7 @@
-minimum
+decorators
 ================
 
-Minimum React App
+Use decorators
 
 Getting Started
 -----
