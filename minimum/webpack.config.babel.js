@@ -3,7 +3,7 @@ import webpack from 'webpack'
 export default {
   debug: true,
   devtool: 'cheap-source-map',
-  entry: './src/app.js',
+  entry: './src/entry.js',
   output: {
     path: './public/',
     filename: 'bundle.js'
