@@ -1,0 +1,15 @@
+{
+  "collectCoverage": true,
+  "preprocessCachingDisabled": true,
+  "scriptPreprocessor": "<rootDir>/preprocessor.js",
+  "setupTestFrameworkScriptFile": "<rootDir>/test-framework.js",
+  "testPathIgnorePatterns": [
+    "/node_modules/",
+    "/preprocessor.js",
+    "/test-framework.js"
+  ],
+  "testRunner": "<rootDir>/node_modules/jest-cli/src/testRunners/jasmine/jasmine2.js",
+  "unmockedModulePathPatterns": [
+    "<rootDir>/node_modules/"
+  ]
+}
