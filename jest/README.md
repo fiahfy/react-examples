@@ -1,7 +1,7 @@
-decorators
+jest
 ================
 
-Test with jest
+Test with Jest
 * Output JUnit reports `test-reports/*.xml`
 * Output coverage reports by clover `coverage`
 

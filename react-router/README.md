@@ -1,4 +1,4 @@
-minimum
+react-router
 ================
 
 App using react-router@1.0.3

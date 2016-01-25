@@ -1,7 +1,7 @@
 decorators
 ================
 
-App using decorators
+App using Decorators
 
 Getting Started
 -----
